@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-run-all-requests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -14,6 +14,9 @@
     "publisher": {
       "name": "Thorsten Schminkel",
       "icon": "https://github.com/schminkel.png"
+    },
+    "images": {
+      "icon": "./assets/icon.png"
     },
     "applications": {
       "core": "*"

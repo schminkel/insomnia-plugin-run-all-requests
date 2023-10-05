@@ -1,5 +1,9 @@
 # Insomnia plugin: insomnia-plugin-run-all-requests
 
+<div style="width:60px; height:60px">
+  ![icon](/assets/icon.png)
+<div>
+
 Insomnia plugin that provides the action 'Run All Requests' on a folder that contains requests.
 
 This allows you to easily run all requests in a given folder, and see the results (http response code, response time, etc) in a list with a single click.
