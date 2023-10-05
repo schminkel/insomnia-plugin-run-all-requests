@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/npm/v/npm-link-shared.svg)](https://www.npmjs.com/package/insomnia-plugin-run-all-requests)
+
 # Insomnia plugin: insomnia-plugin-run-all-requests
 
 <img src="/assets/icon.png" width="150" height="150">
