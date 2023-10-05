@@ -2,6 +2,8 @@
 [![Version](https://img.shields.io/badge/Insomnia_Plugin_Hub-1.0.1-purple)](https://insomnia.rest/plugins/insomnia-plugin-run-all-requests)
 [![Version](https://img.shields.io/badge/Github-1.0.1-black)](https://github.com/schminkel/insomnia-plugin-run-all-requests)
 
+﻿If you like this plugin, [leave it a :star: on Github!](https://github.com/schminkel/insomnia-plugin-run-all-requests)
+
 # Insomnia plugin: insomnia-plugin-run-all-requests
 
 <img src="/assets/icon.png" width="150" height="150">
