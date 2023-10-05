@@ -15,3 +15,7 @@ If the response code of the request does not match the expected response code fr
 ## 'Run All Requests' Overview / Result / Validation Modal
 
 ![List of requests to run](/assets/overview-result-request-list.png)
+
+## Compatibility
+
+- Tested with Insomnia v2023.5.8 [(download here)](https://github.com/schminkel/insomnia_2023.5.8/releases/tag/v2023.5.8.1)
