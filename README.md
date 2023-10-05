@@ -1,4 +1,6 @@
-[![Version](https://img.shields.io/npm/v/npm-link-shared.svg)](https://www.npmjs.com/package/insomnia-plugin-run-all-requests)
+[![Version](https://img.shields.io/badge/npmjs-1.0.1-red)](https://www.npmjs.com/package/insomnia-plugin-run-all-requests)
+[![Version](https://img.shields.io/badge/Insomnia_Plugin_Hub-1.0.1-purple)](https://insomnia.rest/plugins/insomnia-plugin-run-all-requests)
+[![Version](https://img.shields.io/badge/Github-1.0.1-black)](https://github.com/schminkel/insomnia-plugin-run-all-requests)
 
 # Insomnia plugin: insomnia-plugin-run-all-requests
 
