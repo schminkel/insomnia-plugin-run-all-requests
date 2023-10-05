@@ -22,6 +22,15 @@ If the response code of the request does not match the expected response code fr
 
 ![List of requests to run](/assets/overview-result-request-list.png)
 
+## Plugin Installation
+
+Go to `Application -> Preferences -> Plugins` and enter `insomnia-plugin-run-all-requests` in the `npm package name` field and click on the button `Install Plugin`.
+
+This will download and install the plugin. After installation, you will see the plugin in the list of installed plugins
+and the action "Run All Requests" will be available in the context menu of a folder, no restart required.
+
+![Installation](/assets/installation.png)
+
 ## Compatibility
 
 - Tested with Insomnia v2023.5.8 [(download here)](https://github.com/schminkel/insomnia_2023.5.8/releases/tag/v2023.5.8.1)
