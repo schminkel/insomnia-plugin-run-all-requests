@@ -1,8 +1,6 @@
 # Insomnia plugin: insomnia-plugin-run-all-requests
 
-<div style="width:60px; height:60px">
-  ![icon](/assets/icon.png)
-<div>
+<img src="/assets/icon.png" width="150" height="150">
 
 Insomnia plugin that provides the action 'Run All Requests' on a folder that contains requests.
 
