@@ -1,0 +1,46 @@
+{
+  "name": "insomnia-plugin-run-all-requests",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schminkel/insomnia-plugin-run-all-requests"
+  },
+  "description": "Insomnia plugin that provides the action 'Run All Requests' on a folder.",
+  "insomnia": {
+    "name": "Run All Requests",
+    "displayName": "Run All Requests",
+    "description": "Run all requests in a folder.",
+    "publisher": {
+      "name": "Thorsten Schminkel",
+      "icon": "https://github.com/schminkel.png"
+    },
+    "applications": {
+      "core": "*"
+    }
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "run",
+    "requests",
+    "batch"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "parcel watch --no-source-maps src/index.js",
+    "build": "parcel build --no-source-maps src/index.js"
+  },
+  "dependencies": {
+    "@emotion/css": "11.11.2",
+    "clsx": "^2.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-spinners": "^0.13.8"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.25",
+    "parcel": "^2.9.3"
+  }
+}
