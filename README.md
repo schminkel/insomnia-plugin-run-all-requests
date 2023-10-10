@@ -5,6 +5,8 @@
 
 ﻿If you like this plugin, [leave it a :star: on Github!](https://github.com/schminkel/insomnia-plugin-run-all-requests)
 
+You can **install it directly** from the [Insomnia Plugin Hub](https://insomnia.rest/plugins/insomnia-plugin-run-all-requests).
+
 # Insomnia plugin: insomnia-plugin-run-all-requests
 
 <img src="/assets/icon.png" width="150" height="150">
